@@ -1,6 +1,7 @@
 # sim_energy_system_cap.py
 # usage python3 sim_energy_system_cap.py sa_m2 eff voc c_f r_esr q0_c p_on_w v_thresh dt_s dur_s
 # Written by Tejas Vinod
+# Other Contributers: Dr. B. Denby Lecture 24 Slides
 # Test
 # python3 sim_energy_system_cap.py sa_m2 eff voc c_f r_esr q0_c p_on_w v_thresh dt_s dur_s
 # 
